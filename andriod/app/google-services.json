@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "509626538045",
+    "project_id": "loken-car-app",
+    "storage_bucket": "loken-car-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509626538045:android:9705836f747825728ef254",
+        "android_client_info": {
+          "package_name": "com.lokencar.carapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGMBgJaJhsmJlCawhCe--oDBTFWyssYoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
